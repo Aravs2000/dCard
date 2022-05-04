@@ -5,7 +5,7 @@ import pic from './aravs_pic_r.jpg'
 function Info(){
     return(
         <div className='info'>
-            <img className='pic' src={pic} />
+            <img className='pic' src={pic} alt="apic" />
             <h1 className='name'> Aravind C</h1>
             <h2 className='job'> React Developer</h2>
             <h2 className='website'> aravswebarchive.org </h2>
